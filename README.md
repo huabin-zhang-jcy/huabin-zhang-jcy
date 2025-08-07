@@ -34,7 +34,7 @@
 - 🇬🇧 English: Intermediate
 
 ## 📫 Contact
-- 📧 Email: huabin.zhang@gmail.com
+- 📧 Email: huabin.zhang91@gmail.com
 
 
 _Thanks for visiting my profile!_

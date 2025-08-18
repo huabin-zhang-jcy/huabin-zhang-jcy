@@ -32,7 +32,7 @@ https://github.com/huabin-zhang-jcy/my-old-projects
 
 ## 💬 Languages
 - 🇨🇳 Chinese: Native  
-- 🇩🇪 German: B1  
+- 🇩🇪 German: B2  
 - 🇬🇧 English: Intermediate
 
 ## 📫 Contact

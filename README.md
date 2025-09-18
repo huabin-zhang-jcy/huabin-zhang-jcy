@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Huabin Zhang
 
-🔍 I am looking for a application development related internship position (or Ausbildungsplatz) in Germany
-
 💻 Tech Stack: HTML, CSS, JavaScript, Vue.js, Node.js, TypeScript
 
 🛠 Development Tools: VS Code, Git, Postman, Jira
@@ -12,17 +10,17 @@
 
 🎓 I am from China and graduated with a Bachelor's degree in Electronic Information Engineering from a university in China.  
 
-💻 I have 1 year of experience in frontend development.  
+💻 I have more 2 year of experience in frontend development in China.  
 
 📱 I'm passionate about building interesting applications.
 
-🇩🇪 2025.02 Came to Germany, currently learning German, hoping to find a stable application development job in Germany.
+🇩🇪 2025.02 Came to Germany, currently learning German.
 
 ## 🔧 Tools & Skills
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, JavaScript, ES6, Vue, Node.js 
 - **Version Control**: Git  
 - **Code Editor**: Visual Studio Code (VS Code)  
-- **API Testing**: Postman  
+- **API Testing**: Postman
 
 ## 📁 Previous projects
 https://github.com/huabin-zhang-jcy/my-old-projects
@@ -32,8 +30,8 @@ https://github.com/huabin-zhang-jcy/my-old-projects
 
 ## 💬 Languages
 - 🇨🇳 Chinese: Native  
-- 🇩🇪 German: B2  
-- 🇬🇧 English: Intermediate
+- 🇩🇪 German: B1  
+- 🇬🇧 English: A2
 
 ## 📫 Contact
 - 📧 Email: huabin.zhang91@gmail.com
